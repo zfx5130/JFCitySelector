@@ -4,4 +4,4 @@
 
 ####### 效果图如下
 
-![效果图](https://github.com/zfx5130/JFCitySelector)
+![效果图](https://github.com/zfx5130/JFCitySelector/blob/master/test.gif)
